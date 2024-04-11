@@ -29,10 +29,12 @@ To run this project locally, follow these steps:
 
 3. Install dependencies:
 
+   ```bash
    npm install
 
 5. Start the development server:
 
+   ```bash
    npm start
 
 6. Open your browser and navigate to http://localhost:3000 to view the application.
@@ -48,4 +50,7 @@ Once the application is running, you can start managing your groceries list by p
 
 ## Contact
 
-For any inquires or feedback, please contact shantanusirohi.dev@gmail.com
+For any inquires or feedback, please contact 
+
+```bash 
+shantanusirohi.dev@gmail.com
