@@ -37,7 +37,10 @@ To run this project locally, follow these steps:
    ```bash
    npm start
 
-6. Open your browser and navigate to http://localhost:3000 to view the application.
+6. Open your browser and navigate to
+   ```bash
+   http://localhost:3000
+to view the application.
 
 ## Usage
 
