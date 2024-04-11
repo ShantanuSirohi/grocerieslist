@@ -40,7 +40,6 @@ To run this project locally, follow these steps:
 6. Open your browser and navigate to
    ```bash
    http://localhost:3000
-to view the application.
 
 ## Usage
 
